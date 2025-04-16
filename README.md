@@ -11,13 +11,12 @@
 
 ### **🛒 ASP.NET PRODUCT STORE**  
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fartstation-japanese-store-pixelart-fernando-henrique--453878468698871672%2F&psig=AOvVaw08bzmQrJ6B-PF2BkMWOIQJ&ust=1744883085964000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjs0JOi3IwDFQAAAAAdAAAAABAS)" width="300">
 </p>
 
 **Tính năng nổi bật**:
 - Quản lý sản phẩm đa danh mục
 - Phân quyền người dùng (Admin/User)
-- Xuất báo cáo PDF  
 
 **Công nghệ**:  
 csharp
@@ -32,5 +31,5 @@ C# ASP.NET Core EF Core SQL Server
 Tools:
 VS Code Git 
 ###
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KimChonk&show_icons=true&theme=radical" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimChonk&layout=compact&theme=radical" width="48%"> </p>
-<p align="center"> <a href="mailto:trongkim@example.com"> <img src="https://media.giphy.com/media/Utx2O4QgOh4hOgpgBm/giphy.gif" width="50"> </a> <a href="https://linkedin.com/in/kimtrong"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50"> </a> <a href="https://fb.com/kimtrong.it"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"> </a> </p><p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p> 
+###
+</a> <a href="https://fb.com/kimtrong.it"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"> </a> </p><p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p> 
