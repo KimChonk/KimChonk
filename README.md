@@ -1,5 +1,5 @@
 # 🌟 **Xin chào, tôi là Trần Kim Trọng (KimChonk)**  
-**🎓 Sinh viên CNTT | 💻 Full-stack Developer | 🚀 Đam mê sáng tạo giải pháp**  
+**🎓 Sinh viên CNTT | 💻 Full-stack Developer ( in the future ) | 🚀 Đam mê sáng tạo **  
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
@@ -30,7 +30,7 @@ Backend:
 C# ASP.NET Core EF Core SQL Server
 
 Tools:
-VS Code Git Postman Docker
+VS Code Git 
 ###
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KimChonk&show_icons=true&theme=radical" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimChonk&layout=compact&theme=radical" width="48%"> </p>
 <p align="center"> <a href="mailto:trongkim@example.com"> <img src="https://media.giphy.com/media/Utx2O4QgOh4hOgpgBm/giphy.gif" width="50"> </a> <a href="https://linkedin.com/in/kimtrong"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50"> </a> <a href="https://fb.com/kimtrong.it"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"> </a> </p><p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p> 
