@@ -32,4 +32,4 @@ Tools:
 VS Code Git 
 ###
 ###
-</a> <a href="https://fb.com/kimtrong.it"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"> </a> </p><p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p> 
+<p align="center"> <a href="mailto:trongkim@example.com"> <img src="https://media.giphy.com/media/Utx2O4QgOh4hOgpgBm/giphy.gif" width="50"> </a> <a href="https://linkedin.com/in/kimtrong"> <img src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" width="50"> </a> <a href="https://fb.com/kimtrong.it"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"> </a> </p><p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p>
