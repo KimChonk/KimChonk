@@ -32,4 +32,4 @@ Tools:
 VS Code Git 
 ###
 ###
-<p align="center"> <a href="mailto:trongtran2015blue@gmail.com"> <img src="https://media.giphy.com/media/Utx2O4QgOh4hOgpgBm/giphy.gif" width="50"> </a> <a href="https://www.facebook.com/TrongTranDev/"> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="50"> </a> </p><p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p>
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p>
