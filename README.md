@@ -20,7 +20,7 @@
 
 **Công nghệ**:  
 csharp
-ASP.NET Core MVC • EF Core • SQL Server • JWT • Bootstrap
+ASP.NET Core MVC • EF Core • SQL Server • Bootstrap
 <p align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="120"> </p>
 Frontend:
 HTML5 CSS3 JavaScript Bootstrap
