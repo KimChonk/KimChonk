@@ -1,5 +1,5 @@
 # 🌟 **Xin chào, tôi là Trần Kim Trọng (KimChonk)**  
-**🎓 Sinh viên CNTT | 💻 Full-stack Developer ( in the future ) | 🚀 Đam mê sáng tạo **  
+**🎓 Sinh viên CNTT | 💻 Full-stack Developer (in the future) | 🚀 Đam mê sáng tạo**  
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
@@ -9,27 +9,62 @@
 
 ## **🚀 Dự án tiêu biểu**
 
-### **🛒 ASP.NET PRODUCT STORE**  
-<p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKSjRrfIPjeiVyY/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fartstation-japanese-store-pixelart-fernando-henrique--453878468698871672%2F&psig=AOvVaw08bzmQrJ6B-PF2BkMWOIQJ&ust=1744883085964000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjs0JOi3IwDFQAAAAAdAAAAABAS)" width="300">
-</p>
+### **⏰ TakeTime - Ứng dụng quản lý thời gian**  
+
+**Mô tả**:  
+Ứng dụng di động giúp quản lý thời gian hiệu quả, tăng cường tập trung và quản lý công việc cá nhân.
 
 **Tính năng nổi bật**:
-- Quản lý sản phẩm đa danh mục
-- Phân quyền người dùng (Admin/User)
+- Timer với thống kê hiệu suất
+- Quản lý công việc theo dự án
+- Đồng bộ đa nền tảng
+- Giao diện Glasmorphism hiện đại
 
 **Công nghệ**:  
-csharp
+📱 Frontend:
+
+Framework: Flutter 3.x
+
+Ngôn ngữ: Dart 
+
+UI Library: Flutter SDK | Glasmorphin UI
+
+State Management: Provider
+
+🔙 Backend:
+
+API: ASP.NET Core Web API
+
+Authentication: JWT + OAuth2
+
+Database: Supabase (PostgreSQL)
+
+Cloud Storage: Supabase
+
+🛠️ Tools & Platforms:
+
+IDE: Android Studio + VS Code
+
+###  **🛒 ASP.NET PRODUCT STORE**
+Tính năng nổi bật:
+
+Quản lý sản phẩm đa danh mục
+
+Phân quyền người dùng (Admin/User)
+
+Hệ thống giỏ hàng và thanh toán
+
+Công nghệ:
+
+C# 
 ASP.NET Core MVC • EF Core • SQL Server • Bootstrap
-<p align="center"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="120"> </p>
-Frontend:
-HTML5 CSS3 JavaScript Bootstrap
 
-Backend:
-C# ASP.NET Core EF Core SQL Server
+📱 Frontend:
+HTML5 • CSS3 • JavaScript • Bootstrap
 
-Tools:
-VS Code Git 
-###
-###
-<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p>
+🔙 Backend:
+C# • ASP.NET Core • EF Core • SQL Server
+
+🛠️ Tools
+VS Code • Git
+<p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"> <br> <em>Cảm ơn bạn đã ghé thăm!</em> ✨ </p> ```
