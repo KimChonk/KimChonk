@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kim Trong</h1>
-<h3 align="center">A future front-end dev</h3>
+<h3 align="center">A future developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimchonk&label=Profile%20views&color=0e75b6&style=flat" alt="kimchonk" /> </p>
 
