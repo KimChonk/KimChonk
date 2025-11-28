@@ -33,6 +33,6 @@ My core expertise lies in building scalable web applications using the **.NET ec
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimchonk&show_icons=true&locale=en&theme=graywhite&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimchonk&show_icons=true&locale=en&layout=compact&theme=graywhite&hide_border=true&hide_title=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimchonk&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimchonk&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" height="150" />
 </p>
