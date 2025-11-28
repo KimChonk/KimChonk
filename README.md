@@ -1,6 +1,5 @@
-<h1 align="center">Kim Trong</h1>
+<h1 align="center">Tran Kim Trong</h1>
 <h3 align="center">Software Engineering Student | Full-stack Developer</h3>
-
 <p align="center">
   <a href="https://kimtrong-portfolio.vercel.app">Portfolio</a> •
   <a href="mailto:trongtran2015blue@gmail.com">Email</a> •
@@ -25,8 +24,8 @@ My core expertise lies in building scalable web applications using the **.NET ec
 | **Backend Development** | ASP.NET Core, Entity Framework, Node.js, NestJS |
 | **Frontend Development** | ReactJS, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
 | **Mobile Development** | Flutter, Dart, Android SDK |
-| **Database Management** | PostgreSQL, MySQL, Supabase, Firebase |
-| **DevOps & Tools** | Git/GitHub, Docker, Postman, Figma, Adobe Suite |
+| **Database Management** | PostgreSQL, MySQL, Supabase |
+| **DevOps & Tools** | Git/GitHub, Docker, Postman |
 
 ---
 
