@@ -11,7 +11,7 @@
 
 ### About Me
 
-I am a third-year Information Technology student at Ho Chi Minh City University of Technology (HUTECH) with a GPA of 3.23/4.0. As a recipient of the "Outstanding Student" award, I am committed to academic excellence and practical application.
+I am a Final-year Information Technology student at Ho Chi Minh City University of Technology (HUTECH). As a recipient of the "Outstanding Student" award, I am committed to academic excellence and practical application.
 
 My core expertise lies in building scalable web applications using the **.NET ecosystem (ASP.NET Core)** for the backend and **React/Next.js** for the frontend. I focus on clean architecture, performance optimization, and solving complex algorithmic problems.
 
